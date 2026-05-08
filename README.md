@@ -22,7 +22,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2026 My Website</p>
+        <p>&copy; 2026 Milesk.com</p>
     </footer>
 </body>
 </html>
