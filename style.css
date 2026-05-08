@@ -1,8 +1,9 @@
 body {
-    background-color: #f5e6c8;
-    color: black;
-    font-family: Arial, sans-serif;
     margin: 0;
+    font-family: Arial, sans-serif;
+    color: black;
+
+    background-color: #f5e6c8;
 }
 
 header {
