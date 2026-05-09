@@ -3,17 +3,17 @@ body {
     font-family: Arial, sans-serif;
     color: black;
 
-    background-color: #f5e6c8;
+    background-color: #f5ecc2;
 }
 
 header {
-    background-color: #f5e6c8;
+    background-color: #064f6e;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background-color: #444;
+    background-color: #f99d1b;
     padding: 10px;
 }
 
